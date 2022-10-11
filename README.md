@@ -9,9 +9,9 @@ _Level: intermediate python programs. Ideally you are already a bit familiar wit
 
 This will be a live-coding tutorial. You will get the most out of the tutorial if you follow along in a blank notebook and type the code in yourself. 
 
-**Learing Goals**
+**Learning Goals**
 
-By the end of this tutorial, you should be able to 
+By the end of this tutorial, you should be able to:
 
 - Identify the fundamental data structures in Zarr (Groups and Arrays) and the key properties of Arrays (shape, dtype, chunks, attributes)
 - Create Arrays and Groups in local files or in S3
